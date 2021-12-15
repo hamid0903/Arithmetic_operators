@@ -1,4 +1,4 @@
-number=52
+number=int(input())
 n1=number%10
 n2=number//10
 answer=(number%10)*10+(number//10)
